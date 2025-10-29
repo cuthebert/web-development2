@@ -1,0 +1,24 @@
+.maindiv{
+    background-color: aquamarine;
+    border: grey solid;
+    justify-content: space-between;
+    display: ;
+}
+.firstdiv{
+    border: grey solid;
+    background-color: grey;
+    flex-direction: column;
+
+
+
+
+
+}
+.thirddiv{
+    border: grey solid;
+    background-color:rgb(37, 58, 4) ;
+
+
+
+
+}

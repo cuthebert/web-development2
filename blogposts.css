@@ -1,0 +1,45 @@
+.maindiv{
+display: flex;
+border: black solid;
+justify-content: space-between;
+padding:5%;
+background-image: url(./download\ \(3\).jpeg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+border-radius:10%;
+
+
+}
+.firstdiv{
+ border-radius:5% ;
+border: grey solid;
+flex-basis: 20%;
+justify-content: space-around;
+background-color: grey;
+
+
+
+
+}
+
+.seconddiv{
+border-radius:5% ;
+border: grey solid;
+flex-basis: 20%;
+justify-content: space-around;
+background-color: grey;
+
+
+}
+.thirddiv{
+
+    border-radius:5% ;
+    background-color: grey solid;
+    flex-basis: 20%;
+    justify-content: space-around;
+    background-color: grey;
+
+
+
+}
